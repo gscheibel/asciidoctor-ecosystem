@@ -1,0 +1,13 @@
+== On définie le plugin Asciidoctor ...
+
+[source,xml]
+----
+include::{sourcedir}/build/maven-plugin-complete.xml[]
+----
+
+== ... puis on le configure
+
+[source,xml]
+----
+include::{sourcedir}/build/maven-complete-build.xml[lines=24..36]
+----

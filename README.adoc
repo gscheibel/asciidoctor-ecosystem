@@ -1,0 +1,1 @@
+This presentation entitled 'Stop making a fool of yourself with documentation!' is generated using Lazybones and built with Asciidoctor-RevealJS

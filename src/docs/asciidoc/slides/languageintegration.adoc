@@ -1,0 +1,15 @@
+== On en fait quoi de tout ça ?
+
+* Ruby
+* Java (asciidoctorj)
+* Groovy (asciidoctorj-groovy-dsl)
+* JavaScript (asciidoctor.js)
+
+== Write once, publish everywhere
+
+* HTML5
+* Docbook
+* EPUB3
+* PDF
+* deckjs
+* dzslides

@@ -1,0 +1,7 @@
+
+[%hidden]
+== Citation
+
+[quote, Johannes Gutenberg]
+L'imprimerie c'est la version 1.0 du build de documentation +
+avec *Asciidoctor*, on passe en 2.0

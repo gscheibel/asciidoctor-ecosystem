@@ -1,0 +1,15 @@
+== Et les outils de build ?
+
+[%step]
+*Maven*
+[source,xml]
+----
+include::{snippets}/build/maven-plugin.xml[]
+----
+
+[%step]
+*Gradle*
+[source,groovy]
+----
+include::{snippets}/build/gradle.groovy[]
+----

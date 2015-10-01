@@ -1,0 +1,33 @@
+= Stop making a fool of yourself with documentation!
+Guillaume Scheibel <guillaume.scheibel@expedia.com>
+:imagesdir: images
+:snippets: ../snippets
+:source-highlighter: coderay
+
+include::slides/aboutme.adoc[]
+
+include::slides/developerrole.adoc[]
+
+include::slides/documentationproblem.adoc[]
+
+include::slides/future.adoc[]
+
+include::slides/asciidoctor.adoc[]
+
+include::slides/gutenberg.adoc[]
+
+include::slides/why.adoc[]
+
+include::slides/graph.adoc[]
+
+include::slides/languageintegration.adoc[]
+
+include::slides/buildintegration.adoc[]
+
+include::slides/trywithdocker.adoc[]
+
+include::slides/usecases.adoc[]
+
+include::slides/role.adoc[]
+
+include::slides/questions.adoc[]
